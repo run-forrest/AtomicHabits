@@ -19,3 +19,9 @@ That same year, Bradley Wiggins became the first British cyclist to win the Tour
 During the ten-year span from 2007 to 2017, British cyclists won 178 world championships and sixty-six Olympic or Paralympic gold medals and captured five Tour de France victories in what is widely regarded as the most successful run in cycling history.
 
 How does this happen? How does a team of previously ordinary athletes transform into world champions with tiny changes that, at first glance, would seem to make a modest difference at beast? Why do small improvements accumulate into such remarkable results, and how can you replicate thsis approach in your own life?
+
+
+
+# Why SMALL HABITS MAKE A BIG DIFFERENCE
+
+It is so easy  to overestimate the importance of one defining moment and underestimate the value of making small improvements on a daily basis. Too often, we convince ourselves that massive success requires massive action. Whether it is losing weight, building a business, writing a book, winning a championship, or achieving any other goal, we put pressure on ourselves to make some earth-shattering improvement that everyone will talk about.
