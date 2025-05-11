@@ -49,3 +49,30 @@ If you want to predict where you'll end up in life, all you have to do is follow
 Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.
 
 Habits are a double edged sword. Bad habits can cut you down just as easily as good habits can build you up, which is why understanding the details is crucial. You need to know how habits work and how to design them to your liking, so you can avoid the dangerous half of the blade.
+
+# WHAT PROGRESS IS REALLY LIKE
+
+Imagine that you have an ice cube sitting on the table in front of you. The room is cold and you can see your breath. It is currently twenty-five degress. Ever so slowly, the room begins to heat up.
+
+Twenty-six degrees.
+
+Twenty-seven.
+
+Twenty-eight.
+
+The ice cube is still sitting on the table in front of you.
+
+Twenty-nine degress.
+
+Thirty.
+
+Thirty-one.
+
+Still, nothing has happend.
+
+Then, thirty-two degrees. The ice begins to melt. A one-degree shift, seemingly no different from the temperature increases before it, has unlocked a huge change.
+
+Breakthrough moments are often the result of many previous actions, which build up the potential required to unleash a major change. This pattern shows up everywhere. Cancer spends 80 percent of its life undetectable, then takes over the body in months. Bamboo can barely be seen for the first five years as it builds extensive root systems underground before exploding ninety feet into the air within six weeks.
+
+Similarly, habits  often appear to make no difference until you cross a critical threshold and unlock a new level of performance. In the early and middle stages of any quest, there is often a Valley of Disappointment. You expect to make progress in a linear fashion and it's frustrating how ineffective changes can seem during the first days, weeks, and even months. It doesn't feel like you are going anywhere. It's a hallmark of any compounding process: the most powerful outcomes are delayed.
+
