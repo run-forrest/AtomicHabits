@@ -79,3 +79,10 @@ Similarly, habits  often appear to make no difference until you cross a critical
 This is one of the core reasons why it is so hard to build habits that last. People make a few small changes, fail to see a tangible result, and decide to stop. You think, "I've been running every day for a month, so why can't I see any change in my body?" Once this kind of thinking takes over, it's easy to let good habits fall by the wayside. But in order to make a meaningful difference, habits need to persist long enough to break through this plateau what I call the Plateau of Latent Potential.
 
 If you find yourself struggling to build a good habit or break a bad one, it is not because you have lost your ability to improve. It is often because you have not yet crossed the Plateau of Latent Potential. Complaining about not achieving success despite working hard is like complaining about an ice cube not melting when you heated it from twenty-five to thirty-one degrees. Your work was not wasted; it is just being stored. All the action happens at thirty-two degrees.
+
+When you finally break through the Plateau of Latent Potential, people will call it an overnight success. The outside world only sees the most dramatic event rather than all that preceded it. But  you know that it's the work you did long ago when it seemed that you weren't making any progress that makes the jump today possible.
+
+It is the human equivalent of geological pressure. Two tectonic plates can grind against one another for millions of years, the tension slowly building all the while. Then, one day, they rub each other once again, in the same fashion they have for ages, but this time the tension is too great. An earthquake erupts. Change can take years before it happens all at once.
+
+
+
