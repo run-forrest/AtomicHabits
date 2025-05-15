@@ -90,3 +90,11 @@ All big things come from small beginnings. The seed of every habit is a single, 
 
 But what determines whether we stick with a habit long enough to survive the Plateau of Latent Potential and break through to the other side? What is it that cause some people to slide into unwanted habits and enables others to enjoy the compounding effects of good ones?
 
+# FORGET ABOUT GOALS,FOUCUS ON SYSTEMS INSTEAD
+
+Prevailing wisdom claims that the best way to achieve what we want in life getting into better shape, building a successful business, relaxing more and worrying less, spending more time with friends and family is to set specific, actionable goals.
+
+For many years, this was how I approached my habits, too. Each one was a goal to be reached. I set goals for the grades I wanted to get in school, for the weights I wanted to lift in the gym, for the profits I wanted to earn in business. I succeeded at a few, but I failed at a lot of them. Eventually, I began to realize that my results had very little to do with the goals I set and nearly everything to do with the system I followed.
+
+What's the difference between systems and goals? It's a distinction I first learned from Scott Adams, the cartoonist behind the Dilbert comic. Goals are about the results you want to achieve. Systems are about the processed that lead to those results.
+
