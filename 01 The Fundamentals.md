@@ -98,3 +98,14 @@ For many years, this was how I approached my habits, too. Each one was a goal to
 
 What's the difference between systems and goals? It's a distinction I first learned from Scott Adams, the cartoonist behind the Dilbert comic. Goals are about the results you want to achieve. Systems are about the processed that lead to those results.
 
+- If you're a coach, your goal might be to win a championship. Your system is the way you recruit players, manage your assistant coaches, and conduct practice.
+- If you're an entrepreneur, your goal might be to build a milliondollar business. Your system is how you test product ideas, hire employees, and run marketing campaigns.
+- If you're a musician, your goal might be to play a new piece. Your system is how often you practice, how you break down and tackle difficult measures, and your method for receiving feedback from your instructor.
+
+Now for the interesting question: If you completely ignored your goals and focused only on your system, would you still succeed? For example. if you were a basketball coach and you ignored your goal to win a championship and focused only on what your team does at practice each day, would you still get results?
+
+I think you would.
+
+The goal in any sport is to finish with the best score, but it would be ridiculous to spend the whole game staring at the scoreboard. The only way to actually win is to get better each day. In the words of three-time Super Bowl winner Bill Walsh, "The score takes care of itself." The same is true for other areas of life. If you want better results, then forget about setting goals. Focus on your system instead.
+
+What do I mean by this? Are goals completely useless? Of course not. Goals are good for setting a direction, but systems are best for making progress. A handful of problems arise when you spend too much time thinking about your goals and not enough time designing your systems.
