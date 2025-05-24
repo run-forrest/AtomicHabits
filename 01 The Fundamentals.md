@@ -109,3 +109,9 @@ I think you would.
 The goal in any sport is to finish with the best score, but it would be ridiculous to spend the whole game staring at the scoreboard. The only way to actually win is to get better each day. In the words of three-time Super Bowl winner Bill Walsh, "The score takes care of itself." The same is true for other areas of life. If you want better results, then forget about setting goals. Focus on your system instead.
 
 What do I mean by this? Are goals completely useless? Of course not. Goals are good for setting a direction, but systems are best for making progress. A handful of problems arise when you spend too much time thinking about your goals and not enough time designing your systems.
+
+# Problem #1:Winners and Losers have the same goals.
+
+Goal setting suffers from a serious case of survivorship bias. We concentrate on the people who end up winning-the survivors-and mistakenly assume that ambitious goals led to their success while overhooking all of people who had the same objective but didn't succeed.
+
+Every Olympian want to win a goal medal. Every candidate wants to get the job. And if successful and unsuccessful people share the same goals, then the goal cannot be what differentiates the winners from the losers. It wasn't the goal of winning the Tour de France that propelled the British cyclists to the top of the sport. Presumably, they had wanted to win the race every year before-just like every other professional team. The goal had always been there. It was only when they implemented a system of continuous small improvements that they achieved a different outcome.
