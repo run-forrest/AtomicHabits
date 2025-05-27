@@ -22,7 +22,7 @@ How does this happen? How does a team of previously ordinary athletes transform 
 
 
 
-# Why SMALL HABITS MAKE A BIG DIFFERENCE
+## Why SMALL HABITS MAKE A BIG DIFFERENCE
 
 It is so easy  to overestimate the importance of one defining moment and underestimate the value of making small improvements on a daily basis. Too often, we convince ourselves that massive success requires massive action. Whether it is losing weight, building a business, writing a book, winning a championship, or achieving any other goal, we put pressure on ourselves to make some earth-shattering improvement that everyone will talk about.
 
@@ -50,7 +50,7 @@ Time magnifies the margin between success and failure. It will multiply whatever
 
 Habits are a double edged sword. Bad habits can cut you down just as easily as good habits can build you up, which is why understanding the details is crucial. You need to know how habits work and how to design them to your liking, so you can avoid the dangerous half of the blade.
 
-# WHAT PROGRESS IS REALLY LIKE
+## WHAT PROGRESS IS REALLY LIKE
 
 Imagine that you have an ice cube sitting on the table in front of you. The room is cold and you can see your breath. It is currently twenty-five degress. Ever so slowly, the room begins to heat up.
 
@@ -90,7 +90,7 @@ All big things come from small beginnings. The seed of every habit is a single, 
 
 But what determines whether we stick with a habit long enough to survive the Plateau of Latent Potential and break through to the other side? What is it that cause some people to slide into unwanted habits and enables others to enjoy the compounding effects of good ones?
 
-# FORGET ABOUT GOALS,FOUCUS ON SYSTEMS INSTEAD
+## FORGET ABOUT GOALS,FOUCUS ON SYSTEMS INSTEAD
 
 Prevailing wisdom claims that the best way to achieve what we want in life getting into better shape, building a successful business, relaxing more and worrying less, spending more time with friends and family is to set specific, actionable goals.
 
@@ -110,8 +110,14 @@ The goal in any sport is to finish with the best score, but it would be ridiculo
 
 What do I mean by this? Are goals completely useless? Of course not. Goals are good for setting a direction, but systems are best for making progress. A handful of problems arise when you spend too much time thinking about your goals and not enough time designing your systems.
 
-# Problem #1:Winners and Losers have the same goals.
+## Problem #1:Winners and Losers have the same goals.
 
 Goal setting suffers from a serious case of survivorship bias. We concentrate on the people who end up winning-the survivors-and mistakenly assume that ambitious goals led to their success while overhooking all of people who had the same objective but didn't succeed.
 
 Every Olympian want to win a goal medal. Every candidate wants to get the job. And if successful and unsuccessful people share the same goals, then the goal cannot be what differentiates the winners from the losers. It wasn't the goal of winning the Tour de France that propelled the British cyclists to the top of the sport. Presumably, they had wanted to win the race every year before-just like every other professional team. The goal had always been there. It was only when they implemented a system of continuous small improvements that they achieved a different outcome.
+
+
+
+## Problem #2: Achieving a goal is only a momentary change.
+
+Imagine you have a messy room and you set a goal to clean it. If you summon the energy to tidy up, then you will have a clean room-for now. But if you maintain the same sloppy, pack-rat habits that led to a messy in the first place, soon you'll be looking at a new pile of clutter and hoping for another burst of motivation. You're left chasing the same outcome because you never changed the system behind it. You treated a symptom without addressing the cause.
