@@ -126,4 +126,25 @@ Achieving a goal only changes your life for the moment. That's the counterintuit
 
 ## Problem #3: Goals restrict your happiness.
 
-The implicit assumption behind any goal is this: "Once I reach my goal, then I'll be happy." The problem, with a goals-first  mentality is that you're continually putting happiness off until the next milestone. I've slipped into this trap so many times I've lost count.
+The implicit assumption behind any goal is this: "Once I reach my goal, then I'll be happy." The problem, with a goals-first  mentality is that you're continually putting happiness off until the next milestone. I've slipped into this trap so many times I've lost count. For years, happiness was always something for my future self to enjoy. I promised myself that once I gained twenty pounds of muscle or after my business was featured in the New York Times, then I could finally relax.
+
+Furthermore, goals create an "either-or" conflict: either you achieve your goal and are successful or you fail and you are a disappointment. You mentally box yourself into a narrow version of happiness. This is misguided. It is unlikely that your actual path through life will match the exact journey you had in mind when you set out. It makes no sense to restrict your satisfaction to one scenario when there are many paths to success.
+
+A systems-first mentality provides the antidote. When you fall in love with the process rather than the product, you don't have to wait to give yourself permission to be happy. You can be satisfied anytime your system is running. And a system can be successful in many different forms, not just the one you first envision.
+
+## Problem #4: Goals are at odds with long-term progress.
+
+Finally, a goal-oriented mind-set can create a "yo-yo" effect. Many runners work hard for months, but as soon as they cross the finish line,they stop training. The race is no longer there to motivate them. When all your hard work is focused on a particular goal, what is left to push you forward after you achieve it? This why many people find themselves reverting to their old habits after accomplishing a goal.
+
+The purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game. True long-term thinking is goal-less thinking. It's not about any single accomplishment. It is about the cycle of endless refinement and continuous improvement. Ultimately, it is your commitment to the process that will determine your progress.
+
+### A SYSTEM OF ATOMIC HABITS
+
+If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change.
+
+You do not rise to the level of your goals. You fall to the level of your systems. 
+
+Focusing on the overall system, rather than a single goal, is one of the core themes of this book. It is also one of the deeper meanings behind the word atomic. By now, you've probably realized that an atomic habit refers to a tiny change, a marginal gain, a 1 percent improvement. But atomic habits are not just any old habits, however small. They are little habits that are part of a larger system. Just as atoms are the building blocks of molecules, atomic habits are the building blocks of remarkable results.
+
+Habits are like the atoms of our lives. Each one is a fundamental unit that contributes to your overall improvement. At first, these tiny routines seem insignificant, but soon they build on each other and fuel bigger wins that multiply to a degree that far outweighs the cost of their initial investment. They are both small and mighty. This is the meaning of the phrase atomic habits-a regular practice or routine that is not only small and easy to do, but also the source of incredible power; a component of the system of compound growth.
+
