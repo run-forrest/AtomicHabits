@@ -148,3 +148,17 @@ Focusing on the overall system, rather than a single goal, is one of the core th
 
 Habits are like the atoms of our lives. Each one is a fundamental unit that contributes to your overall improvement. At first, these tiny routines seem insignificant, but soon they build on each other and fuel bigger wins that multiply to a degree that far outweighs the cost of their initial investment. They are both small and mighty. This is the meaning of the phrase atomic habits-a regular practice or routine that is not only small and easy to do, but also the source of incredible power; a component of the system of compound growth.
 
+### chapter Summary
+
+- Habits are the compound interest of self-improvement. Getting 1 percent better every day counts for a lot in the long-run.
+- Habits are a  double-edged sword. They can work for you or against you, which is why understanding the details is essential.
+- Small changes often appear to make no difference until you cross a critical threshold. The most powerful outcomes of any compounding process are delayed. You need to be patient.
+- An atomic habit is a little habit that is part of a larger system. Just as atoms are the building blocks of molecules, atomic habits are the building blocks of remarkable results.
+- If you want better results, then forget about setting goals. Focus on your system instead.
+- You do not rise to the level of your goals. You fall to the level of your systems.
+
+
+
+# How Your Habits Shape Your Identity(and Vice Versa)
+
+Why is it so easy to repeat bad habits and so hard to form good ones?
