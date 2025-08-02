@@ -148,7 +148,7 @@ Focusing on the overall system, rather than a single goal, is one of the core th
 
 Habits are like the atoms of our lives. Each one is a fundamental unit that contributes to your overall improvement. At first, these tiny routines seem insignificant, but soon they build on each other and fuel bigger wins that multiply to a degree that far outweighs the cost of their initial investment. They are both small and mighty. This is the meaning of the phrase atomic habits-a regular practice or routine that is not only small and easy to do, but also the source of incredible power; a component of the system of compound growth.
 
-### chapter Summary
+### Chapter Summary
 
 - Habits are the compound interest of self-improvement. Getting 1 percent better every day counts for a lot in the long-run.
 - Habits are a  double-edged sword. They can work for you or against you, which is why understanding the details is essential.
@@ -161,4 +161,20 @@ Habits are like the atoms of our lives. Each one is a fundamental unit that cont
 
 # How Your Habits Shape Your Identity(and Vice Versa)
 
-Why is it so easy to repeat bad habits and so hard to form good ones?
+Why is it so easy to repeat bad habits and so hard to form good ones? Few things can have a more powerful impact on your life than improving your daily habits. And yet it is likely that this time next year you'll be doing the same thing rather than something better.
+
+It often feels difficult to keep good habits going for more than a few days, even with sincere effort and the occasional burst of motivation. Habits like exercise, meditation, journaling, and cooking are reasonable for a day or two and then become a hassle.
+
+However, once your habits are established , they seem to stick around forever-especially the unwanted ones. Despite our best intentions, unhealthy habits like eating junk food, watching too much television, procrastinating, and smoking can feel impossible to break.
+
+Changing our habits is challenging for two reasons: (1) we try to change the wrong thing and (2) we try to change our habits in the wrong way. In this chapter, I'll address the first point. In the chapters that follow, I'll answer the second.
+
+Our first mistake is that we try to change the wrong thing. To understand what I mean, consider that there are three levels at which change can occur. You can imagine them like the layers of an onion.
+
+The first layer is changing your outcomes. This level is concerned with changing your results: losing weight, publishing a book, winning a championship. Most of the goals you set are associated with this level of change.
+
+The second layer is changing your process. This level is concerned with changing your habits and systems: implementing a new routine at the gym, decluttering your desk for better workflow, developing a meditation practice. Most of the habits you build are associated with this level.
+
+The third and deepest layer is changing your identity. This level is concerned with changing your beliefs: your worldview, your selfimage, your judgments about yourself and others. Most of the beliefs, assumptions, and biases you hold are associated with this level.
+
+Outcomes are about what  you get. Processes are about what you do. Identity is about what you believe. When it comes to building habits that last-when it comes to building a system of 1 percent improvements-the problem is not that one level is "better" or "worse" than another. All levels of change are useful in their own way. The problem is the direction of change.
